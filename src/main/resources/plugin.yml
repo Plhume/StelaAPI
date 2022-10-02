@@ -1,0 +1,7 @@
+name: StelaAPI
+version: '${project.version}'
+main: fr.stelarys.stelaapi.StelaAPI
+api-version: 1.19
+authors: [ Plhume ]
+description: API for Stelarys
+website: https://stelarys.fr
